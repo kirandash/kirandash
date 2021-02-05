@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Data visualization with React
+- 💬 Ask me about React, Cypress
