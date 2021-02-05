@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Data visualization with React
-- 💬 Ask me about React, Cypress
+- 🌱 I’m currently learning Data visualization
+- 💬 Ask me about Frontend development
