@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Data visualization
+- 🔭 I’m currently working on building a Crypto Trading platform
+- 🌱 I’m currently learning Web Performance
 - 💬 Ask me about Frontend development
