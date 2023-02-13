@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Links
 - Discord: https://discord.gg/62VR3MMCVm
 - YouTube Channel: https://www.youtube.com/@bgwebagency
-- Website: http://bgwebagency.in/
+- Website: https://bgwebagency.in
 - StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
 - BG Web Agency Repos: https://github.com/bgwebagency
 - Short Films: https://www.youtube.com/@bgfilmstv
