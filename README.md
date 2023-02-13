@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Crypto Trading platform
-- 🌱 I’m currently learning Remix
+- 🌱 I’m currently learning Next.JS and Remix
 - 💬 Ask me about Frontend development
 
 ## Links
