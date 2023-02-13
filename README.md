@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a Crypto Trading platform
-- 🌱 I’m currently learning Web Performance
+- 🌱 I’m currently learning Remix
 - 💬 Ask me about Frontend development
+
+## Links
+- Discord: https://discord.gg/62VR3MMCVm
+- Website: http://bgwebagency.in/
+- YouTube Channel: https://www.youtube.com/@bgwebagency
+- StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
