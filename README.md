@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - BG Web Agency Repos: https://github.com/bgwebagency
 - Short Films: https://www.youtube.com/@bgfilmstv
 - Twitter: https://twitter.com/kirankdash
+- TikTok: https://www.tiktok.com/@bgwebagency
+- Instagram: https://www.instagram.com/bgwebagency/
