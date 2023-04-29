@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Tech Stack: https://bgwebagency.in/tools-i-use-as-lead-frontend-developer/
+- 📚 My tech stack: https://bgwebagency.in/tools-i-use-as-lead-frontend-developer/
 - 🔭 I’m currently working on a Crypto Trading platform
 - 🌱 I’m currently learning Remix
 - 💬 Ask me about Frontend development
