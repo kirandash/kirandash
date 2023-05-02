@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - Twitter: https://twitter.com/kirankdash
 - TikTok: https://www.tiktok.com/@bgwebagency
 - Instagram: https://www.instagram.com/bgwebagency/
+- LinkedIn: https://www.linkedin.com/in/kiran-dash/
