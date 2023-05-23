@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - YouTube Channel: https://www.youtube.com/@bgwebagency
 - Website: https://bgwebagency.in
 - StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
-- BG Web Agency Repos: https://github.com/bgwebagency
+- BG Web Agency Github: https://github.com/bgwebagency
 - Short Films: https://www.youtube.com/@bgfilmstv
 - Twitter: https://twitter.com/kirankdash
 - TikTok: https://www.tiktok.com/@bgwebagency
