@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Website: https://kirandash.com
 - Blog: https://bgwebagency.in
 - BG Web Agency Github: https://github.com/bgwebagency
-- - StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
+- StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
 - Short Films: https://www.youtube.com/@bgfilmstv
 - Twitter: https://twitter.com/kirankdash
 - TikTok: https://www.tiktok.com/@bgwebagency
