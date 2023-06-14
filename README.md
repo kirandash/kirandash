@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 ## Links
 - Discord: https://discord.gg/62VR3MMCVm
 - YouTube Channel: https://www.youtube.com/@bgwebagency
-- Website: https://bgwebagency.in
-- StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
+- Website: https://kirandash.com
+- Blog: https://bgwebagency.in
 - BG Web Agency Github: https://github.com/bgwebagency
+- - StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
 - Short Films: https://www.youtube.com/@bgfilmstv
 - Twitter: https://twitter.com/kirankdash
 - TikTok: https://www.tiktok.com/@bgwebagency
