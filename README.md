@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - Discord: https://discord.gg/62VR3MMCVm
 - YouTube Channel: https://www.youtube.com/@bgwebagency
 - Website: https://kirandash.com
-- Blog: https://bgwebagency.in
+- npm packages: https://www.npmjs.com/~kirandash
 - BG Web Agency Github: https://github.com/bgwebagency
+- Blog: https://bgwebagency.in
 - StackOverflow: https://stackoverflow.com/users/5010106/kiran-dash
 - Short Films: https://www.youtube.com/@bgfilmstv
 - Twitter: https://twitter.com/kirankdash
