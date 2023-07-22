@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I am a Front End Engineer proficient in the front end stack
+- 👨🏻‍💻 I am a Front End Engineer proficient in the front end stack
 - 📚 My tech stack: https://bgwebagency.in/tools-i-use-as-lead-frontend-developer/
 - 🔭 I’m currently working on a Crypto Trading platform
 - 🔭 I'm interested in building reactive web applications with great user experience, design systems and build tooling
