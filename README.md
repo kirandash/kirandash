@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📚 My tech stack: https://bgwebagency.in/tools-i-use-as-lead-frontend-developer/
 - 🔭 I’m currently working on a Crypto Trading platform
 - 🔭 I'm interested in building reactive web applications with great user experience, design systems and build tooling
-- 🌱 I’m currently learning Next.js,GraphQL and Full Stack Development
+- 🌱 I’m currently learning Next.js, GraphQL and Full Stack Development
 - 💬 Ask me about Frontend development
 
 ## Links
