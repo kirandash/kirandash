@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨🏻‍💻 I am a Full Stack Engineer with proficiency in front end
-- 📚 My tech stack: https://bgwebagency.in/tools-i-use-as-lead-frontend-developer/
+- 📚 My tech stack: https://bgwebagency.in/kiran-dash/uses/
 - 🔭 I’m currently working on an Advocacy platform
 - 🔭 I'm interested in building reactive web applications with great user experience, design systems and build tooling
 - 🌱 I’m currently learning Next.js, GraphQL and Full Stack Development
