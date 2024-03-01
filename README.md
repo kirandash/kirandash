@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Website: https://kirandash.com
 - npm packages: https://www.npmjs.com/~kirandash
 - BG Web Agency Github: https://github.com/bgwebagency
+- BG Web Agency DailyDev Squad Invite: https://dly.to/B9a4nmPB1dm
 - Blog: https://bgwebagency.in
 - Twitter: https://twitter.com/kirankdash
 - TikTok: https://www.tiktok.com/@bgwebagency
