@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 My activities: https://bgwebagency.in/kiran-dash/activities/
 - 🔭 I’m currently working on an Advocacy platform
 - 🔭 I'm interested in building reactive web applications with great user experience, design systems and build tooling
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning to build scalable microservices using NestJS
 - 💬 Ask me about Frontend development
 
 ## Links
