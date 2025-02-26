@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 I am a Full Stack Engineer
 - 📚 My tech stack: https://bgwebagency.in/kiran-dash/uses/
-- 🔭 My activities: https://bgwebagency.in/kiran-dash/activities/
-- 🔭 I’m currently working on an Advocacy platform
+- 📝 Currently contributing for [@facebook/lexical](https://github.com/facebook/lexical)
 
 ## Links
 - Discord: https://discord.gg/62VR3MMCVm
