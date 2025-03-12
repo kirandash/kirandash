@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 - BG Web Agency DailyDev Squad Invite: https://dly.to/B9a4nmPB1dm
 - Blog: https://bgwebagency.in
 - Twitter: https://twitter.com/kirankdash
-- TikTok: https://www.tiktok.com/@bgwebagency
-- Instagram: https://www.instagram.com/bgwebagency/
 - LinkedIn: https://www.linkedin.com/in/kiran-dash/
 - Buy me a coffee: https://www.buymeacoffee.com/kirandash
